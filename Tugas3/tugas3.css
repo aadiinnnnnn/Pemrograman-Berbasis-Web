@@ -1,0 +1,19 @@
+.Judul {
+  text-align: center;
+  font-family: "Poppins", serif;
+}
+
+.Gambar {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(3, 1fr);
+  max-width: 600px;
+  padding: 20px;
+  margin: auto;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}

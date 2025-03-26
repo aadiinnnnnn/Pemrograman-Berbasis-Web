@@ -1,0 +1,38 @@
+.Judul {
+  color: black;
+  font-size: large;
+  text-align: center;
+
+  font-weight: 300;
+  font-style: normal;
+}
+
+.Category {
+  text-align: center;
+  font-size: small;
+  font-family: "Poppins", serif;
+}
+
+.Bio {
+  font-size: small;
+  text-align: center;
+  font-family: "Poppins", serif;
+}
+
+.Intro {
+  font-family: "Poppins", serif;
+}
+.S {
+  font-size: 23px;
+  font-weight: bold;
+  float: left;
+  line-height: 1;
+  font-family: "Poppins", serif;
+}
+.Detail {
+  font-family: "Poppins", serif;
+}
+
+.Various {
+  font-family: "Poppins", serif;
+}
